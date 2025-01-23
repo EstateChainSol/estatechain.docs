@@ -2,46 +2,66 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction to EstateChain
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to EstateChain, the revolutionary platform that democratizes real estate investment through blockchain technology. Our platform enables anyone to invest in real estate properties with minimal capital, while ensuring security, transparency, and compliance.
 
-## Getting Started
+## What is EstateChain?
 
-Get started by **creating a new site**.
+EstateChain is a decentralized real estate investment platform built on the Solana blockchain. We combine traditional real estate investment with blockchain technology to offer:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Fractional property ownership
+- Low minimum investment requirements
+- Instant liquidity through tokenization
+- Automated rental income distribution
+- Transparent property management
+- DAO-based governance
 
-### What you'll need
+## Documentation Structure
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Our documentation is organized into the following sections:
 
-## Generate a new site
+1. [Getting Started](./getting-started.md)
+   - Wallet setup
+   - Identity verification
+   - Platform basics
 
-Generate a new Docusaurus site using the **classic template**.
+2. [Exploring Properties](./exploring-properties.md)
+   - Property categories
+   - Search and filters
+   - Property analysis
 
-The classic template will automatically be added to your project after you run the command:
+3. [Investment Process](./investment-process.md)
+   - How to invest
+   - Smart contracts
+   - Investment protection
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+4. [Portfolio Management](./portfolio-management.md)
+   - Dashboard features
+   - Secondary market
+   - Performance tracking
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+5. [DAO Governance](./governance.md)
+   - Voting system
+   - Proposal process
+   - Community participation
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+6. [Security & Compliance](./security-compliance.md)
+   - Platform security
+   - Regulatory compliance
+   - Risk management
 
-## Start your site
+## Quick Start
 
-Run the development server:
+1. Set up your Solana wallet
+2. Complete KYC verification
+3. Browse available properties
+4. Make your first investment
+5. Start earning passive income
 
-```bash
-cd my-website
-npm run start
-```
+## Need Help?
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Email: support@estatechain.io
+- Discord: [Join our community](https://discord.gg/estatechain)
+- Twitter: [@EstateChain](https://twitter.com/estatechain)
+- Telegram: [EstateChain Community](https://t.me/estatechain)
