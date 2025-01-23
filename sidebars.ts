@@ -14,19 +14,13 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Documentation',
-      items: [
-        'intro',
-        'getting-started',
-        'exploring-properties',
-        'investment-process',
-        'portfolio-management',
-        'governance',
-        'security-compliance'
-      ],
-    },
+    'index',
+    'getting-started',
+    'exploring-properties',
+    'investment-process',
+    'portfolio-management',
+    'governance',
+    'security-compliance'
   ],
 };
 

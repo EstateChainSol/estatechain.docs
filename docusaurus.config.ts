@@ -51,6 +51,11 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/estatechain-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     docs: {
       sidebar: {
         hideable: false,
@@ -71,7 +76,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/estatechain',
+          href: 'https://github.com/EstateChainSol',
           label: 'GitHub',
           position: 'right',
         },
