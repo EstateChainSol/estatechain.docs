@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'EstateChain',
   tagline: 'Decentralized Real Estate Investment Platform',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://docs.estatechain.io',
@@ -66,7 +66,7 @@ const config: Config = {
       title: 'EstateChain',
       logo: {
         alt: 'EstateChain Logo',
-        src: 'img/logo.svg',
+        src: 'img/favicon.png',
       },
       items: [
         {
