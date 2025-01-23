@@ -93,7 +93,7 @@ All properties are covered by:
 ## Support & Resources
 
 For assistance with security or compliance matters:
-- Contact support@estatechain.io
+- Contact estatechain@proton.me
 - Join our Discord community
 - Review our FAQ section
 - Submit security concerns 

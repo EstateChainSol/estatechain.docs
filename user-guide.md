@@ -167,6 +167,6 @@ Access EstateChain on the go:
 - Property management platforms
 - Smart home systems for applicable properties
 
-For technical support or questions, contact support@estatechain.io or join our Discord community.
+For technical support or questions, contact estatechain@proton.me or join our Discord community.
 
 *This documentation is regularly updated to reflect new features and platform improvements.* 

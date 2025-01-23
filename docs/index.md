@@ -61,7 +61,7 @@ Our documentation is organized into the following sections:
 
 ## Need Help?
 
-- Email: support@estatechain.io
+- Email: estatechain@proton.me
 - Discord: [Join our community](https://discord.gg/estatechain)
 - Twitter: [@EstateChain](https://twitter.com/estatechain)
 - Telegram: [EstateChain Community](https://t.me/estatechain)
